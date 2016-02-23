@@ -1,0 +1,14 @@
+layout_spectrum: 0.3064516
+color:
+  saturation: 1
+  lightness: 1
+  brandStrength: 1
+  brandColors:
+    - '#421542'
+    - '#DFC7C5'
+    - '#E98842'
+    - '#E8C56D'
+    - '#9A87D7'
+  rhythmicContrast: 1
+typography_spectrum: 0.437276
+name: Fredfades
