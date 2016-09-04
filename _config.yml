@@ -1,4 +1,4 @@
-layout_spectrum: 0.3064516
+typography_spectrum: 0.437276
 color:
   saturation: 1
   lightness: 1
@@ -10,5 +10,6 @@ color:
     - '#E8C56D'
     - '#9A87D7'
   rhythmicContrast: 1
-typography_spectrum: 0.437276
+layout_spectrum: 0.3064516
 name: Fredfades
+title: Fred
